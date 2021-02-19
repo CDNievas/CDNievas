@@ -15,7 +15,7 @@ From Buenos Aires, Argentina 🇦🇷.
 
 <p align="center">
   🧠
-  <em><b>"If someone already did it, so you can do it too, but if no one did it, be the first to do it"</b></em> as mindset
+  <em><b>"If someone already did it, you can do it too, but if no one did it, be the first to do it"</b></em> as mindset
   🧠
 </p>
 
