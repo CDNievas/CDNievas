@@ -19,13 +19,13 @@ From Buenos Aires, Argentina 🇦🇷.
   🧠
 </p>
 
-#### Organizations
+### 🤝 Organizations
 
-- XxPyHack3dxX
-- GitHub Campus Advisor
+- [XxPyHack3dxX](https://github.com/xXPyHack3dXx): CTF Team
+- [GitHub Campus Advisor](https://github.com/github-campus-advisors): Community for GitHub Advisors
+- [Overflow Cafe](https://github.com/ovcafe): Open community for developers (ES)
 
-
-#### Learning
+### 🤓 Learning
 
 - Go
 - TypeScript
@@ -34,7 +34,7 @@ From Buenos Aires, Argentina 🇦🇷.
   🙂 Thanks for visiting and have a nice day! 🙂 <br>
 </p>
 
-![](https://komarev.com/ghpvc/?username=cdnievas&style=flat)
+![](https://komarev.com/ghpvc/?username=cdnievas&color=orange)
 
 <!--
 **CDNievas/CDNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
