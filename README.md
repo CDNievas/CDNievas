@@ -23,7 +23,7 @@ From Buenos Aires, Argentina 🇦🇷.
 
 - [XxPyHack3dxX](https://github.com/xXPyHack3dXx): CTF Team
 - [GitHub Campus Advisor](https://github.com/github-campus-advisors): Community for GitHub Advisors
-- [Overflow Cafe](https://github.com/ovcafe): Open community for developers (ES)
+- [TechShare Room](https://discord.gg/m3faPREr23): Open community for developers (ES)
 
 ### 🤓 Learning
 
