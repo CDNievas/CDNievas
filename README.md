@@ -7,7 +7,7 @@ From Buenos Aires, Argentina 🇦🇷.
 
 👨‍💻 Cyber Security Assistant - Incident Response Team at [MercadoLibre](https://www.mercadolibre.com.ar/) <br>
 👨‍🏫 Teaching Assistant at [UTN](https://www.frba.utn.edu.ar/) in System's Design (Diseño de sistemas) subject <br>
-👨‍🏫 Professor at [Escuela de Arte Multimedia Da Vinci](https://www.davinci.edu.ar/) <br>
+👨‍🏫 Professor at [Escuela de Arte Multimedia Da Vinci](https://www.davinci.edu.ar/carreras/analista-de-sistemas) <br>
 👨‍🏫 Professor at [UADE](https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/diplomatura-universitaria-en-desarrollo-web-full-stack/) <br>
 🧭 [Campus Advisor](https://education.github.com/teachers/advisors) at GitHub <br>
 ☕ Host at [TecnoExpresso Podcast](https://open.spotify.com/show/4YrfBjb5OtpxY9yoson4zu?si=IhF7947wQYaDdD-anKtchA) (ES) <br>
