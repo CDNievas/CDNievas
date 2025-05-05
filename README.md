@@ -5,12 +5,10 @@ From Buenos Aires, Argentina 🇦🇷.
 
 ### More about me
 
-👨‍💻 Cyber Security Assistant - Incident Response Team at [MercadoLibre](https://www.mercadolibre.com.ar/) <br>
-👨‍🏫 Teaching Assistant at [UTN](https://www.frba.utn.edu.ar/) in System's Design (Diseño de sistemas) subject <br>
-👨‍🏫 Professor at [Escuela de Arte Multimedia Da Vinci](https://www.davinci.edu.ar/carreras/analista-de-sistemas) <br>
-👨‍🏫 Professor at [UADE](https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/diplomatura-universitaria-en-desarrollo-web-full-stack/) <br>
-🧭 [Campus Advisor](https://education.github.com/teachers/advisors) at GitHub <br>
-☕ Host at [TecnoExpresso Podcast](https://open.spotify.com/show/4YrfBjb5OtpxY9yoson4zu?si=IhF7947wQYaDdD-anKtchA) (ES) <br>
+👨‍💻 Cyber Security Engineer - Incident Response Team at [MercadoLibre](https://www.mercadolibre.com.ar/) <br>
+👨‍🏫 Ex-Teaching Assistant at [UTN](https://www.frba.utn.edu.ar/) in System's Design (Diseño de sistemas) subject <br>
+👨‍🏫 Ex-Professor at [Escuela de Arte Multimedia Da Vinci](https://www.davinci.edu.ar/carreras/analista-de-sistemas) <br>
+👨‍🏫 Ex-Professor at [UADE](https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/diplomatura-universitaria-en-desarrollo-web-full-stack/) <br>
 ☠️ Pentester enthusiast in [HackTheBox](https://www.hackthebox.eu/home/users/profile/188662) <br>
 💕 Love to Python, NodeJS, Linux and NoSQL <br>
 🤖 Bot creator (Twitch/Telegram/Discord)<br>
@@ -20,17 +18,6 @@ From Buenos Aires, Argentina 🇦🇷.
   <em><b>"If someone already did it, you can do it too, but if no one did it, be the first to do it"</b></em> as mindset
   🧠
 </p>
-
-### 🤝 Organizations
-
-- [XxPyHack3dxX](https://github.com/xXPyHack3dXx): CTF Team
-- [GitHub Campus Advisor](https://github.com/github-campus-advisors): Community for GitHub Advisors
-- [TechShare Room](https://discord.gg/m3faPREr23): Open community for developers (ES)
-
-### 🤓 Learning
-
-- Go
-- TypeScript
 
 <p align="center">
   🙂 Thanks for visiting and have a nice day! 🙂 <br>
