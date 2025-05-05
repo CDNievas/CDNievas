@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Christian Dario Nievas, 24 y.o and student of systems engineering at the UTN (Universidad Tecnológica Nacional). <br>
+I'm Christian Dario Nievas, 28 y.o and student of systems engineering at the UTN (Universidad Tecnológica Nacional). <br>
 From Buenos Aires, Argentina 🇦🇷.
 
 ### More about me
